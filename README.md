@@ -1,7 +1,7 @@
 //获取docx文档处理实例<br />
 <strong>DocxBuilder builder = DocxBuilder.getInstance();</strong><br />
 <br />
-//带freemarker标记模板到docx文件<br />
+//带有freemarker标记模板的docx文件<br />
 <strong>String docxFilePath = &quot;docx路径&quot;;<br />
 File docxFile = new File(docxFilePath);</strong><br />
 <br />
